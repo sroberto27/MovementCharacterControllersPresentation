@@ -1689,6 +1689,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RattoTank
       objectReference: {fileID: 0}
+    - target: {fileID: 381512952989276634, guid: 0659a78af03d95642bc2119a6f841705, type: 3}
+      propertyPath: m_TagString
+      value: RattoTank
+      objectReference: {fileID: 0}
     - target: {fileID: 381512952989276635, guid: 0659a78af03d95642bc2119a6f841705, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -3456,6 +3460,10 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 381512952989276634, guid: 0659a78af03d95642bc2119a6f841705, type: 3}
       propertyPath: m_Name
+      value: RattoTank
+      objectReference: {fileID: 0}
+    - target: {fileID: 381512952989276634, guid: 0659a78af03d95642bc2119a6f841705, type: 3}
+      propertyPath: m_TagString
       value: RattoTank
       objectReference: {fileID: 0}
     - target: {fileID: 381512952989276635, guid: 0659a78af03d95642bc2119a6f841705, type: 3}
