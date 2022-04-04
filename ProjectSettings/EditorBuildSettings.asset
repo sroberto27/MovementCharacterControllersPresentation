@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/2dPlataform.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/2DUpperView.unity
+    guid: bd17ebb36eb899246b5d6faa79a2b37b
+  - enabled: 1
+    path: Assets/Scenes/3DClick3erdPerson.unity
+    guid: 30a625d302c08224f8150a95baf8a26b
+  - enabled: 1
+    path: Assets/Scenes/3DTankMove.unity
+    guid: 8c4bb2e011ebb4e4eaf73fb615e8a758
   m_configObjects: {}
